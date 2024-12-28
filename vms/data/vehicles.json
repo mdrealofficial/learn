@@ -1,0 +1,20 @@
+[
+    {
+        "name": "R15 v4",
+        "type": "Motorcycle",
+        "price": "6950",
+        "image": "https:\/\/img.youtube.com\/vi\/wdz8ETPIOoA\/maxresdefault.jpg"
+    },
+    {
+        "name": "Honda CBR",
+        "type": "Motorcycle",
+        "price": "5120",
+        "image": "https:\/\/www.bikebd.com\/den\/storage\/app\/files\/shares\/images\/productimages\/slider\/new-honda-cbr150r-victory-red-black6523e4bd5c41b.webp"
+    },
+    {
+        "name": "Toyota CHR",
+        "type": "SUV",
+        "price": "35001",
+        "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/64\/2023_Toyota_C-HR_GR_Sport_-_1987cc_2.0_%28197PS%29_Petrol_Hybrid_-_Platinum_White_-_02-2024%2C_Front.jpg\/280px-2023_Toyota_C-HR_GR_Sport_-_1987cc_2.0_%28197PS%29_Petrol_Hybrid_-_Platinum_White_-_02-2024%2C_Front.jpg"
+    }
+]
